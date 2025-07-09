@@ -1,0 +1,51 @@
+
+<svg width="1000" height="550" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .term {
+      font-family: 'Courier New', monospace;
+      fill: #00ff00;
+      font-size: 18px;
+      white-space: pre;
+    }
+    .cursor {
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <rect width="100%" height="100%" fill="black" />
+  <text x="20" y="40" class="term">&gt; whoami</text>
+  <text x="180" y="40" class="term">user: yogeshnema</text>
+
+  <text x="20" y="70" class="term">&gt; nmap -sV github.com</text>
+  <text x="180" y="100" class="term">Host is up (0.23s latency).</text>
+  <text x="180" y="120" class="term">Not shown: 998 closed ports</text>
+  <text x="180" y="140" class="term">PORT    STATE SERVICE  VERSION</text>
+  <text x="180" y="160" class="term">22/tcp  open  ssh      OpenSSH 7.4</text>
+  <text x="180" y="180" class="term">443/tcp open  https    GitHub Frontend</text>
+
+  <text x="20" y="210" class="term">&gt; ./launch_ai_assistant</text>
+  <text x="180" y="240" class="term">[✔] Module loaded: Recon</text>
+  <text x="180" y="260" class="term">[✔] Module loaded: OSINT</text>
+  <text x="180" y="280" class="term">[✔] Module loaded: AI Assistant v1.1</text>
+
+  <text x="20" y="310" class="term">&gt; █ █ █ Awaiting command █ █ █</text>
+
+  <text x="20" y="340" class="term">[#########---------] 45% Downloading payload...</text>
+  <text x="20" y="360" class="term">[##################] 100% Loaded.</text>
+  <text x="20" y="380" class="term">Payload injected successfully.</text>
+
+  <text x="20" y="410" class="term">[+] Status: Access Granted to YogeshNema</text>
+  <text x="20" y="430" class="term">SYSTEM STATUS ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒</text>
+
+  <text x="20" y="450" class="term">CPU Load         ▓▓▓▓▓▓░░░░░░ 45%</text>
+  <text x="20" y="470" class="term">Memory Usage     ▓▓▓▓▓▓▓▓░░░░ 70%</text>
+  <text x="20" y="490" class="term">Net I/O Speed    ▓▓▓▓░░░░░░░░ 22 Mbps</text>
+  <text x="20" y="510" class="term">Threat Scanner   ▓▓▓▓▓▓▓▓▓▓▓▓ OK</text>
+  <text x="20" y="530" class="term">AI Agent Status  ☑ ONLINE</text>
+
+  <text x="20" y="550" class="term">█ █ █ System Stable █ █ █<tspan class="cursor">▌</tspan></text>
+</svg>
