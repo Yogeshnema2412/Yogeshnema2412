@@ -172,47 +172,11 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Matrix Line" />
 </p>
 
+<!-- Embed this SVG in your README.md -->
 
-
-```bash
-> whoami
-user: yogeshnema
-
-> nmap -sV github.com
-Host is up (0.23s latency).
-Not shown: 998 closed ports
-PORT    STATE SERVICE  VERSION
-22/tcp  open  ssh      OpenSSH 7.4
-443/tcp open  https    GitHub Frontend
-
-> ./launch_ai_assistant
-[✔] Module loaded: Recon
-[✔] Module loaded: OSINT
-[✔] Module loaded: AI Assistant v1.1
-
-> █ █ █ Awaiting command █ █ █
-
-[#########---------] 45% Downloading payload...
-[##################] 100% Loaded.![Uploading hacker_terminal.svg…]()
-
-Payload injected successfully.
-
-[+] Status: Access Granted to YogeshNema
-SYSTEM STATUS ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒
-
-CPU Load         ▓▓▓▓▓▓░░░░░░ 45%
-Memory Usage     ▓▓▓▓▓▓▓▓░░░░ 70%
-Net I/O Speed    ▓▓▓▓░░░░░░░░ 22 Mbps
-Threat Scanner   ▓▓▓▓▓▓▓▓▓▓▓▓ OK
-AI Agent Status  ☑ ONLINE
-
-█ █ █ System Stable █ █ █
-
-
-
-
-
-```
+<p align="center">
+  <img src="full_kali_terminal.svg" alt="Real Kali Terminal SVG" />
+</p>
 
 
 
