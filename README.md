@@ -33,7 +33,13 @@
 <a href="https://discord.gg/root_exses" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="root_exses" height="30" width="40" /></a>
 </p>
 
+ <!-- Divider line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
+</p>
+
 <img src="https://github.com/Princegupta101/Princegupta101/blob/main/Assets/illustration.png?raw=true" width="240px" height="180px" align="right"> 
+
 👨‍💻 About Me
 
 - 💻 Tech enthusiast with skills in *Cybersecurity, **AI/ML, and **Backend Development*
@@ -149,6 +155,11 @@
     <img src="https://skillicons.dev/icons?i=bash,flask" />
   </a>
 
+</p>
+
+<!-- Divider line -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
 
 
