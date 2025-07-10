@@ -1,3 +1,4 @@
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&weight=300&size=78&letterSpacing=300&duration=5000&pause=1050&color=F7F70A&background=FFF9F900&center=true&vCenter=true&random=true&width=1000&height=100&lines=Hi+I'm+Yogesh+Nema" alt="Typing SVG" /></a>
 <!-- 🧠 TYPEWRITER EFFECT (Typing SVG) -->
 <p align="center">
@@ -155,12 +156,22 @@
     <img src="https://skillicons.dev/icons?i=bash,flask" />
   </a>
 
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
+
+
 </p>
 
 <!-- Divider line -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif" alt="Line" />
 </p>
+
 
 
 
